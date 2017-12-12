@@ -10,19 +10,17 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-- title: "Home"
-  url : /
 - title: "Veranderkundige begeleiding"
   url : /vkb/
-- title: "Agile en Lean"
-  url : /ael/
-- title: "Team ontwikkeling"
+- title: "Teamontwikkeling"
   url : /teo/     
+- title: "Agile en Lean"
+  url : /ael/  
 - title: "Coaching"
   url : /coa/    
-- title: "Over Anita Pijnappels"
+- title: "Over mij"
   url : /oap/    
-- title: "Contact"
-  url : /con/      
-- title: "Referenties"
+- title: "Klanten"
   url : /ref/        
+- title: "Contact"
+  url : /con/ 
