@@ -132,7 +132,7 @@
   animation: $intro-transition;
   -webkit-animation-delay: 0.25s;
   animation-delay: 0.25s;
-height: 700px;
+
   &--overlay {
     position: relative;
     margin-bottom: 2em;
@@ -145,7 +145,7 @@ height: 700px;
     animation: $intro-transition;
     -webkit-animation-delay: 0.25s;
     animation-delay: 0.25s;
-
+height: 700px;
     a {
       color: #fff;
     }
