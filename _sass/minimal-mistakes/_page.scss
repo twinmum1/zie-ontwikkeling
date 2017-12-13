@@ -64,6 +64,7 @@
 .page__lead {
   font-family: $global-font-family;
   font-size: $type-size-4;
+ 
 }
 
 .page__content {
@@ -146,7 +147,7 @@
     animation: $intro-transition;
     -webkit-animation-delay: 0.25s;
     animation-delay: 0.25s;
-     height: auto;
+
 
     a {
       color: #fff;
@@ -171,6 +172,7 @@
 
     .page__lead {
       max-width: $medium;
+      height:800px;
     }
 
     .page__title {
