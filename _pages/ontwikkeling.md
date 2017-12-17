@@ -7,8 +7,8 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/uilorganisatie.jpg
-excerpt: "Insanity is doing the same thing
-          over and over again
+excerpt: "Insanity is doing the same thing<br>
+          over and over again<br>
 	  and expecting different results 
 
 <br>
