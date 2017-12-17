@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/ontwikkeling.jpg
   excerpt: "<br><br><br><br>
          <br><br><br><br>
-	  and expecting different results 
+	  "
 feature_row:
   - image_path: /assets/images/mens.jpg
     url: /mens/
