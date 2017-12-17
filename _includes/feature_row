@@ -35,7 +35,7 @@
             alt="{% if f.alt %}{{ f.alt }}{% endif %}">
             
          {% if f.url %}
-            </a>"
+            </a>
           {% endif %}  
             
           </div>
