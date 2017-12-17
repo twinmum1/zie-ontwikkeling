@@ -17,8 +17,9 @@ excerpt: "Vooruit is niet altijd rechtdoor <br>(Martin Bril)
 	<br>"
 ---
 
+<p>
 dfgdgd df dfg d
-
+</p>
 
 {% include feature_row id="intro" type="center" %}
 
