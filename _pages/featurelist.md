@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/ontwikkeling.jpg
   excerpt: "
    &nbsp;<br><br><br><br>
-   &nbsp;      <br>
+   &nbsp;.      <br>
 &nbsp;	 <br>
 	&nbsp; <br>
 &nbsp;	 <br>
