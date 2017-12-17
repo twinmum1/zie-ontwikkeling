@@ -10,14 +10,14 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-- title: "Veranderkundige begeleiding"
+- title: "Mens"
+  url : /men/    
+- title: "Team"
+  url : /teo/    
+- title: "Organisatie"
   url : /vkb/
-- title: "Teamontwikkeling"
-  url : /teo/     
 - title: "Agile en Lean"
   url : /ael/  
-- title: "Coaching"
-  url : /coa/    
 - title: "Over mij"
   url : /oap/    
 - title: "Klanten"
