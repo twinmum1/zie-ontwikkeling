@@ -23,7 +23,7 @@
           <div class="archive__item-teaser">
           
           {% if f.url %}
-            <a href="{{ f_url }}>"
+            <a href="{{ f_url }}">
           {% endif %}  
           
             <img src=
