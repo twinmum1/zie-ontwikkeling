@@ -10,6 +10,18 @@ excerpt: "Zie Ontwikkeling helpt individuen teams en organisaties die vastgelope
           zijn omdat ze zichzelf of hun missie niet kennen of niet meer zien, om <br>
 	  met overtuiging weer te kunnen bewegen naar evenwicht/groei/balans/resultaat 
 
+<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>	
+	<br>
+	<br>"
+
 feature_row:
   - image_path: /assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
@@ -25,17 +37,6 @@ feature_row:
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
     title: "Organistaie"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>	
-	<br>
-	<br>"
 ---
 <p>
 Test
