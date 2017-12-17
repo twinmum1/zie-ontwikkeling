@@ -9,12 +9,8 @@ main:
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
-  #   url: /sitemap/
-- title: "Mens"
-  url : /men/    
-- title: "Team"
-  url : /teo/    
-- title: "Organisatie"
+  #   url: /sitemap/  
+- title: "Ontwikkeling"
   url : /vkb/
 - title: "Agile en Lean"
   url : /ael/  
