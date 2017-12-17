@@ -5,17 +5,16 @@ permalink: /featurelist/
 date: 2016-03-23T11:48:41-04:00
 header:
   overlay_image: /assets/images/ontwikkeling.jpg
-  excerpt: " 
-   &nbsp;<br><br><br><br>
-   &nbsp;.      <br>
-&nbsp;	 <br>
-	&nbsp; <br>
-&nbsp;	 <br>
-&nbsp;	 <br>
-&nbsp;	 <br>
-&nbsp;	 <br>
-&nbsp;	 <br>
-&nbsp;	  "
+  excerpt: " Alles wat je aandacht geeft, groeit.
+   <br><br><br><br>
+  <br>
+	<br>
+ <br>
+ <br>
+<br>
+ <br>
+	 <br>
+  "
 feature_row:
   - image_path: /assets/images/mens.jpg
     url: /mens/
