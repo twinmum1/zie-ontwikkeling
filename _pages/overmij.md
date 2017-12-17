@@ -5,7 +5,7 @@ permalink: /overmij/
 date: 2016-03-23T11:48:41-04:00
 ---
 
-![image-right](/assets/images/anita.jpg)
+{%![image-right](/assets/images/anita.jpg)%} 
 
 <p>
 Mijn naam is Anita Pijnappels. Eigenaar van Zie. Ik begeleid individu,  team 
