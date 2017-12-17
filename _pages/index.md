@@ -6,7 +6,7 @@ date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/zie-home-web-min.jpg
+  overlay_image: /assets/images/home.jpg
 excerpt: "Do not go <br>
 	where the path may lead <br>
 	but go where there is no way <BR>
