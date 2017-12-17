@@ -5,5 +5,5 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: single
+      layout: splahs
       author_profile: false
