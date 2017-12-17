@@ -6,15 +6,19 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/zie-home-web-min.jpg
-excerpt: "Insanity is doing the same thing<br>
-          over and over again<br>
-	  and expecting different results 
+excerpt: "Zie Ontwikkeling helpt individuen teams en organisaties die vastgelopen <br>
+          zijn omdat ze zichzelf of hun missie niet kennen of niet meer zien, om <br>
+	  met overtuiging weer te kunnen bewegen naar evenwicht/groei/balans/resultaat 
 
 <br>
 	<br>
 	<br>
 	<br>
 	<br>
+	<br>
+	<br>
+	<br>
+	<br>	
 	<br>
 	<br>"
 ---
