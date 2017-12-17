@@ -4,7 +4,7 @@ layout: splash
 permalink: /featurelist/
 date: 2016-03-23T11:48:41-04:00
 header:
-  overlay_image: /assets/images/home.jpg
+  overlay_image: /assets/images/ontwikkeling.jpg
   
 feature_row:
   - image_path: /assets/images/mens.jpg
