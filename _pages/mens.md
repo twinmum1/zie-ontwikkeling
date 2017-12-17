@@ -7,7 +7,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/stroom.jpg
-excerpt: "Als denken het niet meer weet, luister dan naar je hart.<r> ~Patrick Mundus~
+excerpt: "Als denken het niet meer weet, luister dan naar je hart.<br> ~Patrick Mundus~
 
 <br>
 	<br>
