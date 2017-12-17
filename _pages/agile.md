@@ -7,7 +7,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/scrumteam.jpg
-excerpt: "Vooruit is niet altijd rechtdoor <br>(Martin Bril)
+excerpt: "Vooruit is niet altijd rechtdoor <br>~Martin Bril~
 <br>
 	<br>
 	<br>
