@@ -10,13 +10,13 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/  
-- title: "ZZZZ"
+- title: "Ontwikkeling"
   url : /featurelist/
 - title: "Agile en Lean"
-  url : /agile/
+  url : /agile/  
 - title: "Over mij"
-  url : /overmij/
+  url : /overmij/    
 - title: "Referenties"
-  url : /ref/
+  url : /ref/        
 - title: "Contact"
-  url : /contact/
+  url : /contact/ 
