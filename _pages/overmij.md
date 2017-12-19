@@ -8,11 +8,10 @@ date: 2016-03-23T11:48:41-04:00
 
 
 
-<p>
-  ![no-alignment](assets/images/anita.jpg)
+
 Mijn naam is Anita Pijnappels. Eigenaar van Zie. Ik begeleid individu,  team 
 en organisatie in en naar ontwikkeling. 
-</p>
+
 <p>
 Beweging, groei, ontwikkeling. Het is wat mij enthousiast maakt. Mijn hele 
 leven lang al. Zowel ten aanzien van mijzelf,  als ook iedereen en alles in mijn 
