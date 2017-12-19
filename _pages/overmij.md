@@ -19,6 +19,9 @@ omgeving. Het heeft mij gebracht waar ik nu sta: zakelijk zoveel mogelijk in
 evenwicht met mijn persoon. En doorlopend gericht op een gezonde balans 
 tussen ratio en hart.
 </p>
+> This is a quoute about 
+> something important
+
 <p>
 Mijn gezond nieuwsgierige en kritische houding maakt dat ik niet alles direct voor 
 waar aanneem. Ik ga altijd op zoek naar de vraag achter de vraag. En ik ben scherp 
