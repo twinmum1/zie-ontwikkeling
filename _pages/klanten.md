@@ -3,22 +3,24 @@ title: " "
 layout: splash
 permalink: /ref/
 date: 2016-03-23T11:48:41-04:00
----
 
-## Klanten
 
 feature_row:
   - image_path: /assets/images/referenties/rabo1.png
   - image_path: /assets/images/referenties/astrum1.png
   - image_path: /assets/images/referenties/leudal1.png
 
-feature_row:
   - image_path: /assets/images/referenties/campina1.png
   - image_path: /assets/images/referenties/tabor1.png
   - image_path: /assets/images/referenties/talentpro1.png
 
-feature_row:
-  - image_path: /assets/images/referenties/solidaridad1.pn
+  - image_path: /assets/images/referenties/solidaridad1.png
+
+---
+
+## Klanten
+
+{% include feature_row %}
 
 
 ## Referenties
