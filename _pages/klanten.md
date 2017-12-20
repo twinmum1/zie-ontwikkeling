@@ -25,6 +25,5 @@ feature_row:
 
 ## Referenties
 
+>“Anita heeft ons geholpen om de samenwerking binnen en tussen de teams verder te verdiepen. In de begeleiding toont ze zich kwetsbaar en nodigt daarmee uit kwetsbaar te zijn. Tegelijk is ze direct en spreekt ze je aan op gedrag. Ze brengt hierdoor interactie en dynamiek in de groep, ook op moeilijke momenten. Met haar gestructureerde, praktijkgerichte aanpak èn haar enthousiasme heeft ze bij ons de juiste snaar geraakt.”  
 **Eelco Kaan (COO Rabobank International Direct Banking)**
-
->“Anita heeft ons geholpen om de samenwerking binnen en tussen de teams verder te verdiepen. In de begeleiding toont ze zich kwetsbaar en nodigt daarmee uit kwetsbaar te zijn. Tegelijk is ze direct en spreekt ze je aan op gedrag. Ze brengt hierdoor interactie en dynamiek in de groep, ook op moeilijke momenten. Met haar gestructureerde, praktijkgerichte aanpak èn haar enthousiasme heeft ze bij ons de juiste snaar geraakt.”
