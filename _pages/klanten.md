@@ -8,15 +8,11 @@ date: 2016-03-23T11:48:41-04:00
 ## Klanten
 
 <div>
-{% include image_path="assets/images/referenties/rabo1.png" width="200px" height="auto" %}
-{% include image_path="assets/images/referenties/astrum1.png" width="200px" height="auto" %}
-{% include image_path="assets/images/referenties/leudal1.png" width="200px" height="auto" %}
+{% include image_path="assets/images/referenties/rabo1.png" width="200px" height="auto" %}{% include image_path="assets/images/referenties/astrum1.png" width="200px" height="auto" %}{% include image_path="assets/images/referenties/leudal1.png" width="200px" height="auto" %}
 </div>
 
 <div>
-{% include figure image_path="assets/images/referenties/campina1.png" width="200px" height="auto" %}
-{% include figure image_path="assets/images/referenties/tabor1.png" width="200px" height="auto" %}
-{% include figure image_path="assets/images/referenties/talentpro1.png" width="200px" height="auto" %}
+{% include figure image_path="assets/images/referenties/campina1.png" width="200px" height="auto" %}{% include figure image_path="assets/images/referenties/tabor1.png" width="200px" height="auto" %}{% include figure image_path="assets/images/referenties/talentpro1.png" width="200px" height="auto" %}
 </div>
 
 <div>
