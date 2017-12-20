@@ -21,7 +21,8 @@ Ik hou van latte macchiato!
 
 # Contactgegevens
 
-Kan ik iets voor je betekenen? Of heb je vragen? Neem direct contact met mij op. 
+Kan ik iets voor je betekenen? Of heb je vragen?  
+Neem direct contact met mij op. 
 
 Anita Pijnappels  
 Wolfhezerweg 39  
