@@ -27,7 +27,7 @@ Neem direct contact met mij op.
 Anita Pijnappels  
 Wolfhezerweg 39  
 6874 AA Wolfheze  
-06 43 128 067
++31 6 43 128 067
 
 anita@zie-ontwikkeling.nl  
 KvK nummer: 52588742  
