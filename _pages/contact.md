@@ -22,11 +22,11 @@ excerpt: "Koffie? Ik hou van latte macchiato!
 
 Kan ik iets voor je betekenen? Of heb je vragen? Neem direct contact met mij op. 
 
-Anita Pijnappels
-Wolfhezerweg 39
-6874 AA Wolfheze
+Anita Pijnappels  
+Wolfhezerweg 39  
+6874 AA Wolfheze  
 06 43 128 067
 
-anita@zie-ontwikkeling.nl
-KvK nummer: 52588742
+anita@zie-ontwikkeling.nl  
+KvK nummer: 52588742  
 BTW nummer: NL 166.857.130.B01
