@@ -31,13 +31,13 @@ feature_row:
     alt: "placeholder image 2"
     title: "Team Ontwikkeling"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    btn_label: "Read More"
+    btn_label: "Lees meer"
     btn_class: "btn--inverse"
   - image_path: /assets/images/organisatie.jpg
     url: /organisatie/
     title: "Organisatie Ontwikkeling"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    btn_label: "Read More"
+    btn_label: "Lees meer"
     btn_class: "btn--inverse"
 ---
 
