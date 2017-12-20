@@ -6,7 +6,7 @@ date: 2016-03-23T11:48:41-04:00
 
 
 feature_row:
-  - image_path: /assets/images/referenties/rabo1.png{:height="50%" width="50%"}
+  - image_path: /assets/images/referenties/rabo1.png
   - image_path: /assets/images/referenties/astrum1.png
   - image_path: /assets/images/referenties/leudal1.png
 
