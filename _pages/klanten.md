@@ -7,20 +7,22 @@ date: 2016-03-23T11:48:41-04:00
 
 ## Klanten
 
+{% include figure image_path="assets/images/ZieLogo.png" width="180px" height="auto" alt="{{ '/' | absolute_url }}" %}
+
 <div>
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/referenties/rabo1.png){: .align-left}
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/referenties/astrum1.png){: .align-left}
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/referenties/leudal1.png){: .align-left}
+{% include figure image_path="assets/images/referenties/rabo1.png" %}
+{% include figure image_path="assets/images/referenties/astrum1.png" %}
+{% include figure image_path="assets/images/referenties/leudal1.png" %}
 </div>
 
 <div>
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/referenties/campina1.png){: .align-left}
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/referenties/tabor1.png){: .align-left}
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/referenties/talentpro1.png){: .align-left}
+{% include figure image_path="assets/images/referenties/campina1.png" %}
+{% include figure image_path="assets/images/referenties/tabor1.png" %}
+{% include figure image_path="assets/images/referenties/talentpro1.png" %}
 </div>
 
 <div>
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/referenties/solidaridad1.png){: .align-left}
+{% include figure image_path="assets/images/referenties/solidaridad1.png" %}
 </div>
 
 
