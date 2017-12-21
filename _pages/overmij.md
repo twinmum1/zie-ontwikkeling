@@ -12,15 +12,11 @@ date: 2016-03-23T11:48:41-04:00
 Mijn naam is Anita Pijnappels. Eigenaar van Zie. Ik begeleid individu,  team 
 en organisatie in en naar ontwikkeling. 
 
-
 Beweging, groei, ontwikkeling. Het is wat mij enthousiast maakt. Mijn hele 
 leven lang al. Zowel ten aanzien van mijzelf,  als ook iedereen en alles in mijn 
 omgeving. Het heeft mij gebracht waar ik nu sta: zakelijk zoveel mogelijk in 
 evenwicht met mijn persoon. En doorlopend gericht op een gezonde balans 
 tussen ratio en hart.
-
-
-
 
 Mijn gezond nieuwsgierige en kritische houding maakt dat ik niet alles direct voor 
 waar aanneem. Ik ga altijd op zoek naar de vraag achter de vraag. En ik ben scherp 
@@ -34,7 +30,4 @@ Met mijn uitgebreide ervaring als lijnmanager, projectmanager en verandermanager
 Ik beschik over licenties van beproefde methodieken, instrumenten en interventies (zoals MBTI, Social Communication Styles, systemisch werk).
 
 Benieuwd of we iets voor elkaar kunnen betekenen? Neem dan gerust contact met me op. Ik drink graag een kop koffie met je!
-
-
-{% include feature_row id="intro" type="center" %}
 
