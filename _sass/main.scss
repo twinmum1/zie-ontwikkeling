@@ -1,14 +1,1 @@
 @import "minimal-mistakes";
-
-#wrapper {
-    width: auto;
-    overflow: hidden; /* add this to contain floated children */
-}
-#first {
-    width: 300px;
-    float:left; /* add this */
-}
-#second {
-  width: 300px;
-    float: left; /* add this */
-}
