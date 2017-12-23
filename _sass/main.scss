@@ -1,17 +1,14 @@
 @import "minimal-mistakes";
 
 #wrapper {
-    border: 1px solid blue;
+    width: auto;
+    overflow: hidden; /* add this to contain floated children */
 }
-#div1 {
-    display: inline-block;
-    width:120px;
-    height:120px;
-    border: 1px solid red;
+#first {
+    width: 300px;
+    float:left; /* add this */
 }
-#div2 {
-    display: inline-block;
-    width:160px;
-    height:160px;
-    border: 1px solid green;
+#second {
+  width: 300px;
+    float: left; /* add this */
 }
