@@ -21,18 +21,19 @@ excerpt: "Samenwerking tussen ratio en emotie geeft overzicht en de juiste energ
 	<br>"
 ---
 
-Zie Ontwikkeling helpt mens, team en organisatie die vastlopen omdat ze op één of andere manier de verbinding met hun missie kwijt zijn. Zie Ontwikkeling helpt om te verbinden met met ‘wat er toe doet’. Daarmee helpt ze om weer overzicht te krijgen. Zodat er weer met overtuiging bewogen wordt naar resultaat. 
+Zie Ontwikkeling helpt mensen, teams en organisaties die vastlopen omdat ze op één of andere manier de verbinding met hun missie kwijt zijn. Zie Ontwikkeling helpt om te verbinden met met ‘wat er toe doet’. Daarmee helpt ze om weer overzicht te krijgen. Zodat er weer met overtuiging bewogen wordt naar resultaat. 
 
 
-Zie Ontwikkeling helpt! Bijvoorbeeld met:
+Zie Ontwikkeling helpt.    
+Bijvoorbeeld met:
 
-* Missie, Visie, Strategy traject
+* Missie, Visie, Strategie begeleiding
 * Veranderbegeleiding
 * Verbetering communicatie en samenwerking
 * Interim oplossingen
-
 * Conflicthantering
 * Coaching
-* Conflicthantering
+* Agile en Lean ondersteuning
+
 
 
