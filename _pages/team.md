@@ -18,7 +18,9 @@ excerpt: "Waar een oordeel begint, eindigt de waarneming.<br><br><br><br>
 	<br>"
 ---
 
-**Zie Ontwikkeling helpt je team ontwikkelen op het gebied van samenwerking, communicatie, feedback, zelfsturing en zelforganisatie.  Ze biedt ondersteuning in de rol van teamcoach en trainer.**
+**Team Ontwikkeling**
+
+Zie Ontwikkeling helpt je team ontwikkelen op het gebied van samenwerking, communicatie, feedback, zelfsturing en zelforganisatie.  Ze biedt ondersteuning in de rol van teamcoach, trainer en adviseur.
 
 Samenwerking is onontkoombaar om je als team te kunnen ontwikkelen en de beste resultaten neer te zetten. Maar samenwerken kan een uitdaging zijn. Met jezelf samenwerken is soms al lastig: wat wil ik? En waar ben ik goed in?
 Samenwerken met anderen is een extra dimensie. Want ieder brengt zijn eigen ervaring, kennis, belangen, eigenschappen en competenties in. Dat gaat lang niet altijd direct goed.
