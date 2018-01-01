@@ -37,6 +37,7 @@ Interesse? Neem dan [contact](anita@zie-ontwikkeling.nl) met me op voor een vrij
 
 
 
+{::options parse_block_html="true" /}
 
 <div class="kaderwadwerkt">
 ## WadWerkt
