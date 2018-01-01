@@ -33,7 +33,7 @@ Met coaching, stilteretraites en de rust van de natuur is het mij gelukt mijn ei
 Ik coach vanuit oprechte betrokkenheid en verbinding. En durf met respect op een eerlijke manier te confronteren. Altijd toewerkend naar een doel, waarbij ik je indien nodig help om deze te formuleren. Passend bij jou.
 
 
-Interesse? Neem dan [contact](anita@zie-ontwikkeling.nl) met me op voor een vrijblijvende kennismaking.
+Interesse? Neem dan <a href="mailto:anita@zie-ontwikkeling.nl">contact</a> met me op voor een vrijblijvende kennismaking.
 
 
 
