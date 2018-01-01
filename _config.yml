@@ -17,7 +17,7 @@ title                    : "Zie Ontwikkeling"
 title_separator          : "-"
 name                     : "Zie Ontwikkeling"
 description              : "An amazing website."
-url                      : "https://pigna145.github.io"
+url                      : "https://twinmum1.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -87,11 +87,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Marc Pijnappels"
+  name             : "Anita Pijnappels"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere in the Netherlands"
-  email            : "mymail@home.nl"
+  bio              : ""
+  location         : "Wolfheze"
+  email            : "anita@zie-ontwikkeling.nl"
   uri              :
   bitbucket        :
   codepen          :
