@@ -9,7 +9,7 @@ date: 2016-03-23T11:48:41-04:00
 
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/anita.jpg){: .align-right}
 
-Mijn naam is Anita Pijnappels. Eigenaar van Zie. Ik begeleid individu,  team en organisatie in en naar ontwikkeling. 
+Mijn naam is Anita Pijnappels. Eigenaar van Zie Ontwikkeling. Ik begeleid individu,  team en organisatie in en naar ontwikkeling. 
 
 Beweging, groei, ontwikkeling. Het is wat mij enthousiast maakt. Mijn hele leven lang al. Zowel ten aanzien van mijzelf,  als ook iedereen en alles in mijn omgeving. Het heeft mij gebracht waar ik nu sta: zakelijk zoveel mogelijk in evenwicht met mijn persoon. En doorlopend gericht op een gezonde balans tussen ratio en hart.
 
