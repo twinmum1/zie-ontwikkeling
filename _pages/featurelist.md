@@ -29,7 +29,7 @@ feature_row:
     url: /team/
     alt: "placeholder image 2"
     title: "Team Ontwikkeling"
-    excerpt: "Zie Ontwikkeling helpt je team ontwikkelen op het gebied van samenwerking, communicatie, feedback, zefsturing en zelforganisatie. Ze biedt ondersteuning in de rol van teamcoach, trainer en adviseur."
+    excerpt: "Zie Ontwikkeling helpt je team ontwikkelen op het gebied van samenwerking, communicatie, feedback, zelfsturing en zelforganisatie. Ze biedt ondersteuning in de rol van teamcoach, trainer en adviseur."
     btn_label: "Lees meer"
     btn_class: "btn--inverse"
   - image_path: /assets/images/icon-organisatie.jpg
