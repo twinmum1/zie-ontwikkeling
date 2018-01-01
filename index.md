@@ -9,6 +9,7 @@ header:
 excerpt: "Samenwerking tussen ratio en emotie geeft overzicht en de juiste energie 
 <br>
 <br>
+<br>
 	<br>
 	<br>	
 	<br>
