@@ -13,15 +13,15 @@ Mijn naam is Anita Pijnappels. Eigenaar van Zie. Ik begeleid individu,  team en 
 
 Beweging, groei, ontwikkeling. Het is wat mij enthousiast maakt. Mijn hele leven lang al. Zowel ten aanzien van mijzelf,  als ook iedereen en alles in mijn omgeving. Het heeft mij gebracht waar ik nu sta: zakelijk zoveel mogelijk in evenwicht met mijn persoon. En doorlopend gericht op een gezonde balans tussen ratio en hart.
 
-Mijn gezond nieuwsgierige en kritische houding maakt dat ik niet alles direct voor waar aanneem. Ik ga altijd op zoek naar de vraag achter de vraag. En ik ben scherp op (belemmerende) patronen. Op deze manier help ik dusdanig tot inzichten te komen dat (door)ontwikkelen een vanzelfsprekende volgende stap wordt. Vanuit Intrinsieke overtuiging.
+Mijn gezond nieuwsgierige en kritische houding maakt dat ik niet alles direct voor waar aanneem. Ik ga altijd op zoek naar de vraag achter de vraag. En ik ben scherp op (belemmerende) patronen. Op deze manier help ik dusdanig tot inzichten te komen dat (door)ontwikkelen een vanzelfsprekende volgende stap wordt. Vanuit intrinsieke overtuiging.
 
-Dat doe ik in verbinding. In verbinding met individu en organisatie. In verbinding met ratio en emotie. In verbinding met het doel.  Door actief te luisteren en vanuit oprechte betrokkenheid.  Ik ga het scherpst van de snede daarbij niet uit de weg. Met respect, maar ook doelgericht. Zo nu en dan met humor.
+Dat doe ik in verbinding. In verbinding met individu en organisatie. In verbinding met ratio en emotie. In verbinding met het doel. Door actief te luisteren en vanuit oprechte betrokkenheid.  Ik ga het scherpst van de snede daarbij niet uit de weg. Met respect, maar ook doelgericht. Zo nu en dan met humor.
 
 Met mijn uitgebreide ervaring als lijnmanager, projectmanager en verandermanager weet ik problemen snel en op een overstijgende manier te analyseren.
 
 Ik beschik over licenties van beproefde methodieken, instrumenten en interventies (zoals MBTI, Social Communication Styles, systemisch werk).
 
-Benieuwd of we iets voor elkaar kunnen betekenen? Neem dan gerust [contact]<anita@zie-ontwikkeling.nl> met me op. Ik drink graag een kop koffie met je!
+Benieuwd of we iets voor elkaar kunnen betekenen? Neem dan gerust [contact](mailto:anita@zie-ontwikkeling.nl) met me op. Ik drink graag een kop koffie met je!
 
 
 
