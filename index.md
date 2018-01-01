@@ -26,13 +26,13 @@ Zie Ontwikkeling helpt mens, team en organisatie die vastlopen omdat ze op één
 
 Zie Ontwikkeling helpt! Bijvoorbeeld met:
 
-*Missie, Visie, Strategy traject
-*Veranderbegeleiding
-*Verbetering communicatie en samenwerking
-*Interim oplossingen
+* Missie, Visie, Strategy traject
+* Veranderbegeleiding
+* Verbetering communicatie en samenwerking
+* Interim oplossingen
 
-*Conflicthantering
-*Coaching
-*Conflicthantering
+* Conflicthantering
+* Coaching
+* Conflicthantering
 
 

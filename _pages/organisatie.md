@@ -21,15 +21,14 @@ excerpt: "Insanity is doing the same thing over and over again and expecting dif
 
 In een wereld die steeds sneller en continu verandert, is het belangrijk om als organisatie flexibel te zijn. Daarvoor zijn nieuwe kennis en methodieken nodig. Maar vooral ook ander gedrag en andere competenties. 
 
-Zie Ontwikkeling helpt
-*Om (belemmerende) patronen, overtuigingen en gewoontes van je organisatie te zìen. Wat is het dat het vraagstuk in stand houdt? Dit maakt een veranderplan te allen tijde maatwerk.
-*Bij het doorbreken van oude gewoontes. 
-*Met ondersteuning bij de implementatie van het plan. 
-*Bij het borgen van de andere werkwijze en gedrag op alle niveaus.
+Zie Ontwikkeling helpt:
+* Om (belemmerende) patronen, overtuigingen en gewoontes van je organisatie te zìen. Wat is het dat het vraagstuk in stand houdt? Dit maakt een veranderplan te allen tijde maatwerk.
+* Bij het doorbreken van oude gewoontes. 
+* Met ondersteuning bij de implementatie van het plan. 
+* Bij het borgen van de andere werkwijze en gedrag op alle niveaus.
 
 Zie Ontwikkeling gelooft in een participatieve (wholescale change, Dannemiller Tyson) en systemische veranderaanpak (integrale benadering). En biedt ondersteuning in een rol als veranderadviseur, verandermanager of verandercoach. Ten aanzien van vraagstukken rondom strategie, cultuur en gedragsverandering. 
 
 
 
-{% include feature_row id="intro" type="center" %}
 

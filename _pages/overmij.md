@@ -25,6 +25,8 @@ Benieuwd of we iets voor elkaar kunnen betekenen? Neem dan gerust contact[anita@
 
 
 
+{::options parse_block_html="true" /}
+
 <div class="kaderpassie">
 ## Mijn passie
 
