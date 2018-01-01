@@ -13,9 +13,6 @@ excerpt: "Samenwerking tussen ratio en emotie geeft overzicht en de juiste energ
 	<br>
 	<br>
 	<br>
-	<br>
-	<br>
-	<br>
 	<br>	
 	<br>
 	<br>"
