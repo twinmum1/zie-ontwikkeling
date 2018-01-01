@@ -24,7 +24,7 @@ Ik hou van latte macchiato!
 Kan ik iets voor je betekenen? Of heb je vragen?  
 Ik vind het leuk om met je in contact te komen. 
 Bel, mail of app me via  
-anita@zie-ontwikkeling.nl  
+[anita@zie-ontwikkeling.nl](anita@zie-ontwikkeling.nl)  
 of  
 +31 6 43 128 067  
 
