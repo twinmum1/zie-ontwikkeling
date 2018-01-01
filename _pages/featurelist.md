@@ -21,9 +21,7 @@ feature_row:
     url: /mens/
     alt: "placeholder image 1"
     title: "Mens Ontwikkeling"
-    excerpt: "Mijn werk bevalt me best goed, maar ik voel dat ik niet in mijn kracht zit.
-    Ik weet zeker dat ik meer uit mijn leven kan halen, maar ik weet niet hoe.
-    Het lukt me onvoldoende om uit de waan van de dag te stappen en voor mezelf te kiezen.
+    excerpt: "Het lukt me onvoldoende om uit de waan van de dag te stappen en voor mezelf te kiezen.
     Herkenbaar?"
     btn_label: "Lees meer"
     btn_class: "btn--inverse"
