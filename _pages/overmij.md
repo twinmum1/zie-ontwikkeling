@@ -21,7 +21,7 @@ Met mijn uitgebreide ervaring als lijnmanager, projectmanager en verandermanager
 
 Ik beschik over licenties van beproefde methodieken, instrumenten en interventies (zoals MBTI, Social Communication Styles, systemisch werk).
 
-Benieuwd of we iets voor elkaar kunnen betekenen? Neem dan gerust contact<anita@zie-ontwikkeling.nl> met me op. Ik drink graag een kop koffie met je!
+Benieuwd of we iets voor elkaar kunnen betekenen? Neem dan gerust [contact]<anita@zie-ontwikkeling.nl> met me op. Ik drink graag een kop koffie met je!
 
 
 
