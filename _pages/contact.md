@@ -22,13 +22,12 @@ Ik hou van latte macchiato!
 # Contactgegevens
 
 Kan ik iets voor je betekenen? Of heb je vragen?  
-Neem direct contact met mij op. 
-
-Anita Pijnappels  
-Wolfhezerweg 39  
-6874 AA Wolfheze  
+Ik vind het leuk om met je in contact te komen. 
+Bel, mail of app me via
+anita@zie-ontwikkeling.nl
+of
 +31 6 43 128 067
 
-anita@zie-ontwikkeling.nl  
+Zie Ontwikkeling  
 KvK nummer: 52588742  
 BTW nummer: NL 166.857.130.B01
