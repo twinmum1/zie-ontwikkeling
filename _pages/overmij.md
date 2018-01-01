@@ -25,12 +25,4 @@ Benieuwd of we iets voor elkaar kunnen betekenen? Neem dan gerust <a href="mailt
 
 
 
-{::options parse_block_html="true" /}
 
-<div class="kaderpassie">
-## Mijn passie
-
-De huidige wereld is sterk ratiogedreven en prestatiegericht. Met te weinig èchte aandacht voor de mens. Zowel individu als organisatie heeft hier last van. 
-
-Ik geloof dat meer balans tussen ratio en hart altijd tot betere resultaten leidt. Ik lever daarom mijn bijdrage door individuen, teams en organisaties te helpen hun natuur/kern te (her)ontdekken en te omarmen. De verbinding tussen deze kern en doel zorgt voor meer rust en kracht. En een gezonder resultaat. 
-</div>
