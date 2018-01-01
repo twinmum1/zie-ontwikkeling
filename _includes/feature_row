@@ -20,13 +20,13 @@
 
       <div class="archive__item">
         {% if f.image_path %}
-          <div class="archive__item-teaser">
+          <div class="archive__item-teaser" style="text-align: center;">
           
           {% if f.url %}
             <a href="{{ f_url }}">
           {% endif %}  
           
-            <img style="text-align: center; max-width: calc(100% / 2);" src=
+            <img style="max-width: calc(100% / 2);" src=
               {% if f.image_path contains "://" %}
                 "{{ f.image_path }}"
               {% else %}
