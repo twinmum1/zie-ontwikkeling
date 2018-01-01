@@ -35,3 +35,4 @@ of
 Zie Ontwikkeling  
 KvK nummer: 52588742  
 BTW nummer: NL 166.857.130.B01
+[www.linkedin.com/in/anitapijnappels](https://www.linkedin.com/in/anitapijnappels/)
