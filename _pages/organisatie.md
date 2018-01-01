@@ -17,8 +17,9 @@ excerpt: "Insanity is doing the same thing over and over again and expecting dif
 	<br>"
 ---
 
-**Zie Ontwikkeling geeft nooit alleen een antwoord op een vraagstuk, maar helpt om het verandervermogen en de flexibiliteit te vergroten.** 
+**Organisatie Ontwikkeling**
 
+Zie Ontwikkeling geeft nooit alleen een antwoord op een vraagstuk, maar helpt om het verandervermogen en de flexibiliteit te vergroten.
 In een wereld die steeds sneller en continu verandert, is het belangrijk om als organisatie flexibel te zijn. Daarvoor zijn nieuwe kennis en methodieken nodig. Maar vooral ook ander gedrag en andere competenties. 
 
 Zie Ontwikkeling helpt:
