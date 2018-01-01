@@ -26,7 +26,7 @@
             <a href="{{ f_url }}">
           {% endif %}  
           
-            <img style="text-align:center;max-width: calc(100% / 2);" src=
+            <img style="text-align: center; max-width: calc(100% / 2);" src=
               {% if f.image_path contains "://" %}
                 "{{ f.image_path }}"
               {% else %}
