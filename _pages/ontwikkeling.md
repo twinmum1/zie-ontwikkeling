@@ -29,5 +29,4 @@ We helpen bij het doorbreken van oude gewoontes. Met ondersteuning bij de implem
 Zie Ontwikkeling gelooft in een participatieve (wholescale change, Dannemiller Tyson) en systemische veranderaanpak (integrale benadering). En biedt ondersteuning in een rol als veranderadviseur, verandermanager of verandercoach. Ten aanzien van vraagstukken rondom strategie, cultuur en gedragsverandering. 
 
 
-{% include feature_row id="intro" type="center" %}
 

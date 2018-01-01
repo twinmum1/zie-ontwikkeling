@@ -27,6 +27,3 @@ Zie Ontwikkeling werkt vanuit de overtuiging dat iedereen zijn/haar unieke talen
 En die individuele inzichten geven een teamprofiel: met eigen sterktes, uitdagingen en mogelijkheden om te excelleren.
 
 
-
-{% include feature_row id="intro" type="center" %}
-
