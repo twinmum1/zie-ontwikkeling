@@ -21,20 +21,23 @@ feature_row:
     url: /mens/
     alt: "placeholder image 1"
     title: "Mens Ontwikkeling"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Mijn werk bevalt me best goed, maar ik voel dat ik niet in mijn kracht zit.
+    Ik weet zeker dat ik meer uit mijn leven kan halen, maar ik weet niet hoe.
+    Het lukt me onvoldoende om uit de waan van de dag te stappen en voor mezelf te kiezen.
+    Herkenbaar?"
     btn_label: "Lees meer"
     btn_class: "btn--inverse"
   - image_path: /assets/images/icon-team.jpg
     url: /team/
     alt: "placeholder image 2"
     title: "Team Ontwikkeling"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Zie Ontwikkeling helpt je team ontwikkelen op het gebied van samenwerking, communicatie, feedback, zefsturing en zelforganisatie. Ze biedt ondersteuning in de rol van teamcoach, trainer en adviseur."
     btn_label: "Lees meer"
     btn_class: "btn--inverse"
   - image_path: /assets/images/icon-organisatie.jpg
     url: /organisatie/
     title: "Organisatie Ontwikkeling"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Zie Ontwikkeling geeft nooit alleen een antwoord op een vraagstuk, maar helpt om het verandervermogen en de flexibiliteit te vergroten."
     btn_label: "Lees meer"
     btn_class: "btn--inverse"
 ---
