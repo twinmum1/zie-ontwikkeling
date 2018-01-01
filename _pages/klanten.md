@@ -18,10 +18,6 @@ feature_row:
 
 ---
 
-## Klanten
-
-{% include feature_row %}
-
 ## Referenties
 
 >“Anita heeft ons geholpen om de samenwerking binnen en tussen de teams verder te verdiepen. In de begeleiding toont ze zich kwetsbaar en nodigt daarmee uit kwetsbaar te zijn. Tegelijk is ze direct en spreekt ze je aan op gedrag. Ze brengt hierdoor interactie en dynamiek in de groep, ook op moeilijke momenten. Met haar gestructureerde, praktijkgerichte aanpak èn haar enthousiasme heeft ze bij ons de juiste snaar geraakt.”  
@@ -37,3 +33,6 @@ Anita is een prettige persoonlijkheid met verstand van zaken die oog heeft voor 
 In teamsetting toont zij zich een sterke procesbegeleider: het proces wordt op een luchtige manier goed bewaakt, terwijl de inhoudelijke discussie (en het leerproces) bij de deelnemers blijft liggen. Zij heeft ons managementteam inzicht gegeven in sterktes, uitdagingen en verbetermogelijkheden. En geholpen in verdere ontwikkeling en groei.”  
 **Edwin van den Elst (algemeen directeur Talent en Pro)**
 
+## Klanten
+
+{% include feature_row %}
