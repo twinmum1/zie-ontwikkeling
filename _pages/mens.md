@@ -18,6 +18,8 @@ excerpt: "Als denken het niet meer weet, luister dan naar je hart.<br> ~Patrick 
 	<br>"
 ---
 
+**Mens Ontwikkeling**
+
 * Mijn werk bevalt me best goed. Maar ik voel dat ik niet in mijn kracht zit. En dat wil ik wel graag!
 * Ik weet zeker dat ik meer uit mijn leven kan halen, maar ik weet niet hoe.
 * Het lukt me onvoldoende om uit de waan van de dag te stappen en voor mezelf te kiezen. Eigenlijk word ik teveel geleefd.
