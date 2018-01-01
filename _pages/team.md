@@ -12,9 +12,6 @@ excerpt: "Waar een oordeel begint, eindigt de waarneming.<br><br><br><br>
 <br>
 	<br>
 	<br>
-	<br>
-	<br>
-	<br>
 	<br>"
 ---
 
