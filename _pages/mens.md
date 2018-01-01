@@ -39,15 +39,3 @@ Interesse? Neem dan <a href="mailto:anita@zie-ontwikkeling.nl">contact</a> met m
 
 
 
-{::options parse_block_html="true" /}
-
-<div class="kaderwadwerkt">
-## WadWerkt
-
-Vier dagen tijd voor jezelf. Vier dagen waarin je leert het heft weer in eigen handen te nemen. Vier dagen die jou inzicht geven in jouw set van unieke talenten. Vier dagen die jou helpen geloven in jouw uniciteit. En die jou helpen te ontdekken wat je nodig hebt om in je kracht te staan. Wat is het dat jou van nature onderscheidt van de ander?
-
-WadWerkt is een samenwerking tussen Anita Pijnappels (Zie Ontwikkeling) en Eric Doornik (Verder Vanuit Vertrouwen).
-Tijdens een vierdaags verblijf op Vlieland  helpt WadWerkt ambitieuze hoger opgeleiden die geleefd worden door werk en verplichtingen om weer in balans te komen. Zodat ze (weer) op een ontspannen manier meer uit het leven kunnen halen.
-Interesse? Er zijn nog plaatsen beschikbaar!
-Kijk op [wad-werkt.nl](http://wad-werkt.nl) voor meer informatie.
-</div>
