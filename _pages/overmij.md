@@ -19,7 +19,7 @@ Dat doe ik in verbinding. In verbinding met individu en organisatie. In verbindi
 
 Met mijn uitgebreide ervaring als lijnmanager, projectmanager en verandermanager weet ik problemen snel en op een overstijgende manier te analyseren.
 
-Ik beschik over licenties van beproefde methodieken, instrumenten en interventies (zoals MBTI, Social Communication Styles, systemisch werk).
+Ik beschik over licenties van beproefde methodieken, instrumenten en interventies (zoals MBTI, Social Communication Styles, systemisch werk, Lean, Scrum).
 
 Benieuwd of we iets voor elkaar kunnen betekenen? Neem dan gerust <a href="mailto:anita@zie-ontwikkeling.nl">contact</a> met me op. Ik drink graag een kop koffie met je!
 
