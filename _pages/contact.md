@@ -24,7 +24,7 @@ Ik hou van latte macchiato!
 # Contactgegevens
 
 Kan ik iets voor je betekenen? Of heb je vragen?  
-Ik vind het leuk om met je in contact te komen. 
+Ik vind het leuk om met je in contact te komen.   
 Bel, mail of app me via  
 <a href="mailto:anita@zie-ontwikkeling.nl">anita@zie-ontwikkeling.nl</a>  
 of  
