@@ -23,7 +23,7 @@ feature_row:
     alt: "placeholder image 1"
     title: "Mens Ontwikkeling"
     excerpt: "Het lukt me onvoldoende om uit de waan van de dag te stappen en voor mezelf te kiezen.
-    Herken je dit?"
+    Herkenbaar?"
     btn_label: "Lees meer"
     btn_class: "btn--inverse"
   - image_path: /assets/images/icon-team.jpg
