@@ -16,7 +16,7 @@ excerpt: "Luisteren naar zowel ratio als emotie geeft overzicht en energie
 	<br>"
 ---
 
-Zie Ontwikkeling helpt mensen, teams en organisaties die vastlopen omdat ze op één of andere manier de verbinding met hun missie kwijt zijn. Zie Ontwikkeling helpt om te verbinden met ‘wat er toe doet’. Daarmee helpt ze om inzicht en/of overzicht te krijgen. Zodat er weer met overtuiging keuzes gemaakt kunnen worden. En positief resultaat. 
+Zie Ontwikkeling helpt mensen, teams en organisaties die vastlopen omdat ze op één of andere manier de verbinding met de essentie kwijt zijn. Zie Ontwikkeling helpt om te verbinden met ‘wat er toe doet’. Daarmee helpt ze om inzicht en/of overzicht te krijgen. Zodat er weer met overtuiging keuzes gemaakt kunnen worden. En positief resultaat. 
 
 
 Zie Ontwikkeling helpt.    
