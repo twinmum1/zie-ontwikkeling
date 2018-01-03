@@ -18,7 +18,6 @@ Mijn gezond nieuwsgierige en kritische houding maakt dat ik niet alles direct vo
 Dat doe ik in verbinding: met individu en organisatie, met het doel. Door actief te luisteren en vanuit oprechte betrokkenheid.  Ik ga het scherpst van de snede daarbij niet uit de weg. Met respect, maar ook doelgericht. Zo nu en dan met humor.
 
 Met mijn uitgebreide ervaring als lijnmanager, projectmanager en verandermanager weet ik problemen snel en op een overstijgende manier te analyseren.
-
 Ik beschik over licenties van beproefde methodieken, instrumenten en interventies (zoals MBTI, Social Communication Styles, systemisch werk, Lean, Scrum).
 
 Benieuwd of we iets voor elkaar kunnen betekenen? Neem dan gerust <a href="mailto:anita@zie-ontwikkeling.nl">contact</a> met me op. Ik drink graag een kop koffie met je!
