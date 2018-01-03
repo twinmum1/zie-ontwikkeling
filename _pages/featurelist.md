@@ -36,7 +36,7 @@ feature_row:
   - image_path: /assets/images/icon-organisatie.jpg
     url: /organisatie/
     title: "Organisatie Ontwikkeling"
-    excerpt: "Zie Ontwikkeling geeft nooit alleen een antwoord op een vraagstuk, maar helpt om het verandervermogen en de flexibiliteit te vergroten."
+    excerpt: "Zie Ontwikkeling geeft nooit alleen een antwoord op een vraagstuk. Ze helpt ook om het verandervermogen en de flexibiliteit te vergroten."
     btn_label: "Lees meer"
     btn_class: "btn--inverse"
 ---
