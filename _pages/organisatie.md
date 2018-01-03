@@ -19,11 +19,11 @@ excerpt: "Insanity is doing the same thing over and over again and expecting dif
 
 **Organisatie Ontwikkeling**
 
-Zie Ontwikkeling geeft nooit alleen een antwoord op een vraagstuk, maar helpt om het verandervermogen en de flexibiliteit te vergroten.
-In een wereld die steeds sneller en continu verandert, is het belangrijk om als organisatie flexibel te zijn. Daarvoor zijn nieuwe kennis en methodieken nodig. Maar vooral ook ander gedrag en andere competenties. 
+Zie Ontwikkeling geeft nooit alleen een antwoord op een vraagstuk. Ze helpt ook om het verandervermogen en de flexibiliteit te vergroten.
+In een wereld die steeds sneller en continu verandert, is het belangrijk om als organisatie flexibel te zijn. Daarvoor zijn nieuwe kennis en methodieken nodig. En vooral ander gedrag en andere competenties. 
 
 Zie Ontwikkeling helpt:
-* Om (belemmerende) patronen, overtuigingen en gewoontes van je organisatie te zìen. Wat is het dat het vraagstuk in stand houdt? Dit maakt een veranderplan te allen tijde maatwerk.
+* Om (belemmerende) patronen, overtuigingen en gewoontes van je organisatie te zìen. Wat is het dat het vraagstuk in stand houdt? Dit maakt een veranderplan maatwerk.
 * Bij het doorbreken van oude gewoontes. 
 * Met ondersteuning bij de implementatie van het plan. 
 * Bij het borgen van de andere werkwijze en gedrag op alle niveaus.
