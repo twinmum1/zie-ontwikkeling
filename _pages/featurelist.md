@@ -18,7 +18,7 @@ excerpt: "Alles wat je aandacht geeft, groeit<br>
 	<br>
 	<br>"
 feature_row:
-  - image_path: /assets/images/icon-persoon.jpg
+  - image_path: /assets/images/person-icon.png
     url: /mens/
     alt: "placeholder image 1"
     title: "Mens Ontwikkeling"
@@ -26,14 +26,14 @@ feature_row:
     Herkenbaar?"
     btn_label: "Lees meer"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/icon-team.jpg
+  - image_path: /assets/images/team-icon.png
     url: /team/
     alt: "placeholder image 2"
     title: "Team Ontwikkeling"
     excerpt: "Zie Ontwikkeling helpt je team ontwikkelen op het gebied van samenwerking, communicatie, feedback, zelfsturing en zelforganisatie. Ze biedt ondersteuning in de rol van teamcoach, trainer en adviseur."
     btn_label: "Lees meer"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/icon-organisatie.jpg
+  - image_path: /assets/images/organisatie-icon.png
     url: /organisatie/
     title: "Organisatie Ontwikkeling"
     excerpt: "Zie Ontwikkeling geeft nooit alleen een antwoord op een vraagstuk. Ze helpt ook om het verandervermogen en de flexibiliteit te vergroten."
