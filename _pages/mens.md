@@ -10,7 +10,7 @@ header:
 excerpt: "Als denken het niet meer weet, luister dan naar je hart.<br> ~Patrick Mundus~
 
 sidebar:
-  - title: "WadWerkt"
+  - title: WadWerkt
     text: "Wilt u aan uzelf werken? http://www.wadwerkt.nl"
 
 <br>
