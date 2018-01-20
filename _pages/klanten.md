@@ -35,7 +35,7 @@ In teamsetting toont zij zich een sterke procesbegeleider: het proces wordt op e
 
 
 >"Anita's manier van vragen stellen, helpt om tot de kern van het probleem te komen. Ze gaat moeilijke vragen niet uit de weg en je voelt je bij haar vertrouwd en gehoord in de zoektocht naar oplossingen. Hierbij verliest ze de sfeer niet uit het oog. Ze geeft positieve energie om onderwerpen tot op de bodem uit te zoeken."
-**Ivo Breuer (senior adviseur bedrijfsvoering Gemeente Leudal)
+**Ivo Breuer (senior adviseur bedrijfsvoering Gemeente Leudal)**
 
 ## Klanten
 
