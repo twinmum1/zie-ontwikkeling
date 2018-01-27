@@ -47,6 +47,6 @@ sidebar:
 
 {% include feature_row %}
 <div style="border-radius: 25px; border: 2px solid #293638; padding: 20px;">
-<img width="200" height="58" src="/assets/images/wadwerkt-logo-colour.png" alt="WadWerkt.nl"/>
-<p>Kom met ons naar de Wadden en leer jezelf kennen en laat ons je helpen om jezelf verder te ontwikkelen.</p>
+<a href="http://www.wadwerkt.nl"><img width="200" height="58" src="/assets/images/wadwerkt-logo-colour.png" alt="WadWerkt.nl"/></a>
+<p>Een vierdaagse, persoonlijke leiderschapsreis om jezelf en je leven in balans te brengen.</p>
 </div>
