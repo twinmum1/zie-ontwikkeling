@@ -46,4 +46,6 @@ sidebar:
 ---
 
 {% include feature_row %}
-
+<div style="background-color: yellow;">
+Stukje test tekst over hier
+</div>
