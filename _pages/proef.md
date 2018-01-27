@@ -65,7 +65,7 @@ Ontdek dicht bij de natuur, op Vlieland, wat werkt voor jou!
     </div>
   </div>
 </div>
-<div style=" border: 2px solid #293638; width: 50%; vertical-align: top; horizontal-align: right; padding: 20px;">
+<div style=" border: 2px solid #293638; width: 50%; vertical-align: top; horizontal-align: right; padding: 20px;" markdown="1">
 En dan een hele hoop tekst er langs zetten als test om te zien hoe dat er uit komt te zien.
 
 *hoe ziet dit er uit
