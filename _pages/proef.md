@@ -39,10 +39,10 @@ feature_row:
     excerpt: "Zie Ontwikkeling geeft nooit alleen een antwoord op een vraagstuk. Ze helpt ook om het verandervermogen en de flexibiliteit te vergroten."
     btn_label: "Lees meer"
     btn_class: "btn--inverse"
-    
 sidebar:
     - title: "WadWerkt.nl"
       text: "Ga mee naar de wadden om jezelf te ontdekken, en jezlef zodoende te kunnen ontwikkelen."
+      
 ---
 
 {% include feature_row %}
