@@ -44,28 +44,23 @@ feature_row:
 
 {% include feature_row %}
 
-<div style="border-radius: 25px; border: 2px solid #293638; padding: 20px;">
 <a href="http://www.wad-werkt.nl">
-<table style="border: 0px; width:100%">
-  <tr>
-    <td style="width: 200px; vertical-align: top; padding: 10px;">
+<div style="border-radius: 25px; border: 2px solid #293638; padding: 20px; display: table;">
+  <div style="display: table-row;">
+    <div style="display: table-cell; padding: 10px;">
       <img width="200" height="58" src="https://twinmum1.github.io/zie-ontwikkeling/assets/images/wadwerkt-logo-colour.png" alt="wad-werkt.nl"/>
-    </td>
-    <td style="width: auto; padding: 10px;">
-      <p>Ontdek waar je voor staat, waar je kracht ligt en waar jij je op wil richten. Kom naar Vlieland en ervaar in een vierdaagse Persoonlijk Leiderschapsreis hoe jij het beste uit jezelf kunt halen. Energie, inspiratie, inzichten en confrontatie gegarandeerd!</p>
-<p>Herkenbaar?
+    </div>
+    <div style="display: table-cell; padding: 10px;">
+    <p>Ontdek waar je voor staat, waar je kracht ligt en waar jij je op wil richten. Kom naar Vlieland en ervaar in een vierdaagse Persoonlijk Leiderschapsreis hoe jij het beste uit jezelf kunt halen. Energie, inspiratie, inzichten en confrontatie gegarandeerd!
+Herkenbaar?
 Je wil doen wat écht bij je past, maar komt er niet uit wat dat is.
 Het is leuk wat je doet, maar je wil nog meer je kwaliteiten benutten. Je denkt: wat en hoe?
 Het lukt je niet uit de dagelijkse routine te stappen en voor jezelf te kiezen. Je wilt hulp daarbij!
 Ontdek dicht bij de natuur, op Vlieland, wat werkt voor jou!</p>
-<p>Ontdek waar je voor staat, waar je kracht ligt en waar jij je op wil richten. Kom naar Vlieland en ervaar in een vierdaagse Persoonlijk Leiderschapsreis hoe jij het beste uit jezelf kunt halen. Energie, inspiratie, inzichten en confrontatie gegarandeerd!</p>
-<p>Herkenbaar?
-Je wil doen wat écht bij je past, maar komt er niet uit wat dat is.
-Het is leuk wat je doet, maar je wil nog meer je kwaliteiten benutten. Je denkt: wat en hoe?
-Het lukt je niet uit de dagelijkse routine te stappen en voor jezelf te kiezen. Je wilt hulp daarbij!
-Ontdek dicht bij de natuur, op Vlieland, wat werkt voor jou!</p>
-    </td>
-  </tr>
-</table>
-</a>
+    <p>Paragraaf 2</p>
+    <p>Paragraaf 3</p>
+    <p>Paragraaf 4</p>
+    </div>
+  </div>
 </div>
+</a>
