@@ -46,6 +46,8 @@ sidebar:
 ---
 
 {% include feature_row %}
-<p>
-Stukje test tekst over hier
+<p style="border-radius: 25px; border: 2px solid #293638; padding: 20px;">
+Wadwerkt
+Kom met ons naar de Wadden en leer jezelf kennen en laat ons je helpen om jezelf verder te ontwikkelen.
+http://www.wadwerkt.nl
 </p>
