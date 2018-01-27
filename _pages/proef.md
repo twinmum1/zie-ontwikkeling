@@ -46,7 +46,7 @@ sidebar:
 ---
 
 {% include feature_row %}
-<div style="border-radius: 25px; background: #719397; padding: 20px;">
-<img width="200" height="58" src="/assets/images/wadwerkt-logo.png" alt="WadWerkt.nl"/>
+<div style="border-radius: 25px; border: 2px solid #293638; padding: 20px;">
+<img width="200" height="58" src="/assets/images/wadwerkt-logo-colour.png" alt="WadWerkt.nl"/>
 <p>Kom met ons naar de Wadden en leer jezelf kennen en laat ons je helpen om jezelf verder te ontwikkelen.</p>
 </div>
