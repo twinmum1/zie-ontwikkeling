@@ -47,10 +47,10 @@ feature_row:
 <a href="http://www.wad-werkt.nl">
 <div style="border-radius: 25px; border: 2px solid #293638; padding: 20px; display: table;">
   <div style="display: table-row;">
-    <div style="display: table-cell; padding: 10px;">
+    <div style="display: table-cell; width: auto; padding: 10px;">
       <img width="200" height="58" src="https://twinmum1.github.io/zie-ontwikkeling/assets/images/wadwerkt-logo-colour.png" alt="wad-werkt.nl"/>
     </div>
-    <div style="display: table-cell; padding: 10px;">
+    <div style="display: table-cell; width: auto; padding: 10px;">
     <p>Ontdek waar je voor staat, waar je kracht ligt en waar jij je op wil richten. Kom naar Vlieland en ervaar in een vierdaagse Persoonlijk Leiderschapsreis hoe jij het beste uit jezelf kunt halen. Energie, inspiratie, inzichten en confrontatie gegarandeerd!
 Herkenbaar?
 Je wil doen wat écht bij je past, maar komt er niet uit wat dat is.
