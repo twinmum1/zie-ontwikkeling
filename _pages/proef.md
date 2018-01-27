@@ -44,8 +44,7 @@ feature_row:
 
 {% include feature_row %}
 
-
-<div style="border-radius: 25px; border: 2px solid #293638; padding: 20px; display: table;">
+<div style="border-radius: 25px; border: 2px solid #293638; width: 50%; horizontal-align: left; padding: 20px; display: table;">
   <div style="display: table-row;">
     <div style="display: table-cell; width: 200px; padding: 10px;">
       <a href="http://www.wad-werkt.nl">
