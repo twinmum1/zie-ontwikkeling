@@ -44,29 +44,28 @@ feature_row:
 
 {% include feature_row %}
 
-<div>
-<div style="border-radius: 25px; border: 2px solid #293638; width: 50%; vertical-align: top; horizontal-align: left; padding: 20px; display: table;">
+<div style="display: table;">
   <div style="display: table-row;">
-    <div style="display: table-cell; width: 200px; padding: 10px;">
-      <a href="http://www.wad-werkt.nl">
-      <img style="width: 100%;" src="https://twinmum1.github.io/zie-ontwikkeling/assets/images/wadwerkt-logo-colour.png" alt="wad-werkt.nl"/>
-      </a>
-    </div>
-    <div style="display: table-cell; padding: 10px; vertical-align: top;">
-    Ontdek waar je voor staat, waar je kracht ligt en waar jij je op wil richten. Kom naar Vlieland en ervaar in een vierdaagse Persoonlijk Leiderschapsreis hoe jij het beste uit jezelf kunt halen. Energie, inspiratie, inzichten en confrontatie gegarandeerd!
+    <div style="display: table-cell;">
+      <div style="border-radius: 25px; border: 2px solid #293638; padding: 20px; display: table;">
+        <div style="display: table-row;">
+          <div style="display: table-cell; width: 200px; padding: 10px;">
+            <a href="http://www.wad-werkt.nl"><img style="width: 100%;" src="https://twinmum1.github.io/zie-ontwikkeling/assets/images/wadwerkt-logo-colour.png" alt="wad-werkt.nl"/></a>
+          </div>
+          <div style="display: table-cell; padding: 10px; vertical-align: top;" markdown="1">Ontdek waar je voor staat, waar je kracht ligt en waar jij je op wil richten. Kom naar Vlieland en ervaar in een vierdaagse Persoonlijk Leiderschapsreis hoe jij het beste uit jezelf kunt halen. Energie, inspiratie, inzichten en confrontatie gegarandeerd!
 Herkenbaar?
 Je wil doen wat écht bij je past, maar komt er niet uit wat dat is.
 Het is leuk wat je doet, maar je wil nog meer je kwaliteiten benutten. Je denkt: wat en hoe?
 Het lukt je niet uit de dagelijkse routine te stappen en voor jezelf te kiezen. Je wilt hulp daarbij!
 Ontdek dicht bij de natuur, op Vlieland, wat werkt voor jou!
-    <p>Paragraaf 2</p>
-    <p>Paragraaf 3</p>
-    <p>Paragraaf 4</p>
+* bullet 1
+* bullet 2
+          </div>
+        </div>
+      </div>
     </div>
-  </div>
-</div>
-<div style=" border: 2px solid #293638; width: 50%; vertical-align: top; horizontal-align: right; padding: 20px;" markdown="1">
-En dan een hele hoop tekst er langs zetten als test om te zien hoe dat er uit komt te zien.
+    <div style="display: table-cell;">
+      <div style=" border: 2px solid #293638; padding: 20px;" markdown="1">En dan een hele hoop tekst er langs zetten als test om te zien hoe dat er uit komt te zien.
 
 *hoe ziet dit er uit
 **of dit dan?
@@ -80,5 +79,7 @@ Eens even kijken:
 1. drie
 .1. vier
 .1. vijf
-</div>
+      </div>
+    </div>
+  </div>
 </div>
