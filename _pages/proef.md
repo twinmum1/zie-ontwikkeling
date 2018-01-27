@@ -68,8 +68,8 @@ Ontdek dicht bij de natuur, op Vlieland, wat werkt voor jou!
     </div>
     <div style="display: table-cell; border: 1px solid #293638;" markdown="1">En dan een hele hoop tekst er langs zetten als test om te zien hoe dat er uit komt te zien.
 
-*hoe ziet dit er uit
-**of dit dan?
+* bla
+** bladiabla?
 
 Zou dit ook langs het kader komen staan zoals ik hoop, want dat geeft mij de mogelijkheid om het kader in iedere gewenste breedte in de pagina te plaatsen.
 
