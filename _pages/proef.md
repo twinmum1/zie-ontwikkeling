@@ -64,7 +64,7 @@ Ontdek dicht bij de natuur, op Vlieland, wat werkt voor jou!
     </div>
   </div>
 </div>
-
+<div style="width: 50%; horizontal-align: right; padding: 20px;">
 En dan een hele hoop tekst er langs zetten als test om te zien hoe dat er uit komt te zien.
 
 *hoe ziet dit er uit
@@ -79,4 +79,4 @@ Eens even kijken:
 1. drie
 .1. vier
 .1. vijf
-
+</div>
