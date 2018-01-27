@@ -46,8 +46,7 @@ sidebar:
 ---
 
 {% include feature_row %}
-<p style="border-radius: 25px; border: 2px solid #293638; padding: 20px;">
-Wadwerkt
-Kom met ons naar de Wadden en leer jezelf kennen en laat ons je helpen om jezelf verder te ontwikkelen.
-http://www.wadwerkt.nl
-</p>
+<div style="border-radius: 25px; background: #293638; padding: 20px;">
+<img src="/assets/images/wadwerkt-logo.png" width="200" height="58"/>
+<p>Kom met ons naar de Wadden en leer jezelf kennen en laat ons je helpen om jezelf verder te ontwikkelen.</p>
+</div>
