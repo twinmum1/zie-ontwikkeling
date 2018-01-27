@@ -44,11 +44,12 @@ feature_row:
 
 {% include feature_row %}
 
-<div style="border-radius: 25px; border: 2px solid #293638; padding: 20px; display: table;">
-<table style="border: 0; width:100%">
+<div style="border-radius: 25px; border: 2px solid #293638; padding: 20px;">
+<a href="http://www.wad-werkt.nl">
+<table style="border: 0px; width:100%">
   <tr>
     <td style="width: 200px; vertical-align: top; padding: 10px;">
-      <a href="http://www.wad-werkt.nl"><img width="200" height="58" src="https://twinmum1.github.io/zie-ontwikkeling/assets/images/wadwerkt-logo-colour.png" alt="wad-werkt.nl"/></a>
+      <img width="200" height="58" src="https://twinmum1.github.io/zie-ontwikkeling/assets/images/wadwerkt-logo-colour.png" alt="wad-werkt.nl"/>
     </td>
     <td style="width: auto; padding: 10px;">
       <p>Ontdek waar je voor staat, waar je kracht ligt en waar jij je op wil richten. Kom naar Vlieland en ervaar in een vierdaagse Persoonlijk Leiderschapsreis hoe jij het beste uit jezelf kunt halen. Energie, inspiratie, inzichten en confrontatie gegarandeerd!</p>
@@ -66,4 +67,5 @@ Ontdek dicht bij de natuur, op Vlieland, wat werkt voor jou!</p>
     </td>
   </tr>
 </table>
+</a>
 </div>
