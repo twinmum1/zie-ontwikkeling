@@ -64,8 +64,7 @@ Ontdek dicht bij de natuur, op Vlieland, wat werkt voor jou!
         </div>
       </div>
     </div>
-    <div style="display: table-cell;">
-      <div style=" border: 2px solid #293638; padding: 20px;" markdown="1">En dan een hele hoop tekst er langs zetten als test om te zien hoe dat er uit komt te zien.
+    <div style="display: table-cell; border: 2px solid #293638;" markdown="1">En dan een hele hoop tekst er langs zetten als test om te zien hoe dat er uit komt te zien.
 
 *hoe ziet dit er uit
 **of dit dan?
@@ -79,7 +78,6 @@ Eens even kijken:
 1. drie
 .1. vier
 .1. vijf
-      </div>
     </div>
   </div>
 </div>
