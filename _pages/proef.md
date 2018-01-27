@@ -52,13 +52,13 @@ feature_row:
       <img style="width: 100%;" src="https://twinmum1.github.io/zie-ontwikkeling/assets/images/wadwerkt-logo-colour.png" alt="wad-werkt.nl"/>
       </a>
     </div>
-    <div style="display: table-cell; padding: 10px;">
-    <p>Ontdek waar je voor staat, waar je kracht ligt en waar jij je op wil richten. Kom naar Vlieland en ervaar in een vierdaagse Persoonlijk Leiderschapsreis hoe jij het beste uit jezelf kunt halen. Energie, inspiratie, inzichten en confrontatie gegarandeerd!
+    <div style="display: table-cell; padding: 10px; vertical-align: top;">
+    Ontdek waar je voor staat, waar je kracht ligt en waar jij je op wil richten. Kom naar Vlieland en ervaar in een vierdaagse Persoonlijk Leiderschapsreis hoe jij het beste uit jezelf kunt halen. Energie, inspiratie, inzichten en confrontatie gegarandeerd!
 Herkenbaar?
 Je wil doen wat écht bij je past, maar komt er niet uit wat dat is.
 Het is leuk wat je doet, maar je wil nog meer je kwaliteiten benutten. Je denkt: wat en hoe?
 Het lukt je niet uit de dagelijkse routine te stappen en voor jezelf te kiezen. Je wilt hulp daarbij!
-Ontdek dicht bij de natuur, op Vlieland, wat werkt voor jou!</p>
+Ontdek dicht bij de natuur, op Vlieland, wat werkt voor jou!
     <p>Paragraaf 2</p>
     <p>Paragraaf 3</p>
     <p>Paragraaf 4</p>
