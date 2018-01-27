@@ -46,7 +46,7 @@ feature_row:
 
 <div style="display: table; border: 2px solid #293638;">
   <div style="display: table-row; border: 2px solid #293638;">
-    <div style="display: table-cell; border: 2px solid #293638;">
+    <div style="display: table-cell; border: 2px solid #293638; width: 50%;">
       <!-- kader -->
       <div style="border-radius: 25px; border: 2px solid #293638; padding: 20px; display: table;">
         <div style="display: table-row;">
@@ -66,7 +66,7 @@ Ontdek dicht bij de natuur, op Vlieland, wat werkt voor jou!
       </div>
       <!-- kader -->
     </div>
-    <div style="display: table-cell; border: 1px solid #293638;" markdown="1">En dan een hele hoop tekst er langs zetten als test om te zien hoe dat er uit komt te zien.
+    <div style="display: table-cell; border: 1px solid #293638; width: 50%;" markdown="1">En dan een hele hoop tekst er langs zetten als test om te zien hoe dat er uit komt te zien.
 
 * bla
 ** bladiabla?
