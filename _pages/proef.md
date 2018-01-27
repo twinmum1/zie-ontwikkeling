@@ -73,10 +73,10 @@ En dan een hele hoop tekst er langs zetten als test om te zien hoe dat er uit ko
 Zou dit ook langs het kader komen staan zoals ik hoop, want dat geeft mij de mogelijkheid om het kader in iedere gewenste breedte in de pagina te plaatsen.
 
 Eens even kijken:
--een
--twee
---en ertussen iets
--drie
--vier
--vijf
+1. een
+1. twee
+..* en ertussen iets
+1. drie
+.1. vier
+.1. vijf
 
