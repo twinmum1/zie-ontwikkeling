@@ -38,15 +38,13 @@ feature_row:
     title: "Organisatie Ontwikkeling"
     excerpt: "Zie Ontwikkeling geeft nooit alleen een antwoord op een vraagstuk. Ze helpt ook om het verandervermogen en de flexibiliteit te vergroten."
     btn_label: "Lees meer"
-    btn_class: "btn--inverse"
-sidebar:
-    - title: "WadWerkt.nl"
-      text: "Ga mee naar de wadden om jezelf te ontdekken, en jezlef zodoende te kunnen ontwikkelen."
-      
+    btn_class: "btn--inverse"      
+
 ---
 
 {% include feature_row %}
 <div style="border-radius: 25px; border: 2px solid #293638; padding: 20px;">
-<a href="http://www.wadwerkt.nl"><img width="200" height="58" src="https://twinmum1.github.io/zie-ontwikkeling/assets/images/wadwerkt-logo-colour.png" alt="WadWerkt.nl"/></a>
+<a href="http://www.wad-werkt.nl"><img width="200" height="58" src="https://twinmum1.github.io/zie-ontwikkeling/assets/images/wadwerkt-logo-colour.png" alt="wad-werkt.nl"/></a>
+<br>
 <p>Een vierdaagse, persoonlijke leiderschapsreis om jezelf en je leven in balans te brengen.</p>
 </div>
