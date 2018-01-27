@@ -66,7 +66,7 @@ Ontdek dicht bij de natuur, op Vlieland, wat werkt voor jou!
       </div>
       <!-- kader -->
     </div>
-    <div style="display: table-cell; width: 50%; padding-left: 30px;" markdown="1">En dan een hele hoop tekst er langs zetten als test om te zien hoe dat er uit komt te zien.
+    <div style="display: table-cell; width: 50%; padding-left: 30px;">En dan een hele hoop tekst er langs zetten als test om te zien hoe dat er uit komt te zien.
 
 * bla
 ** bladiabla?
