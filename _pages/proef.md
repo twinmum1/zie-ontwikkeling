@@ -53,6 +53,13 @@ Herkenbaar?
 Je wil doen wat écht bij je past, maar komt er niet uit wat dat is.
 Het is leuk wat je doet, maar je wil nog meer je kwaliteiten benutten. Je denkt: wat en hoe?
 Het lukt je niet uit de dagelijkse routine te stappen en voor jezelf te kiezen. Je wilt hulp daarbij!
+Ontdek dicht bij de natuur, op Vlieland, wat werkt voor jou!
+
+Ontdek waar je voor staat, waar je kracht ligt en waar jij je op wil richten. Kom naar Vlieland en ervaar in een vierdaagse Persoonlijk Leiderschapsreis hoe jij het beste uit jezelf kunt halen. Energie, inspiratie, inzichten en confrontatie gegarandeerd!
+Herkenbaar?
+Je wil doen wat écht bij je past, maar komt er niet uit wat dat is.
+Het is leuk wat je doet, maar je wil nog meer je kwaliteiten benutten. Je denkt: wat en hoe?
+Het lukt je niet uit de dagelijkse routine te stappen en voor jezelf te kiezen. Je wilt hulp daarbij!
 Ontdek dicht bij de natuur, op Vlieland, wat werkt voor jou!</td>
   </tr>
 </table>
