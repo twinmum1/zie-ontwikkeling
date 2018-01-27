@@ -43,7 +43,12 @@ feature_row:
 ---
 
 {% include feature_row %}
-<div style="border-radius: 25px; border: 2px solid #293638; padding: 20px;">
-<p><a href="http://www.wad-werkt.nl"><img width="200" height="58" src="https://twinmum1.github.io/zie-ontwikkeling/assets/images/wadwerkt-logo-colour.png" alt="wad-werkt.nl"/></a></p>
-<p>Een vierdaagse, persoonlijke leiderschapsreis om jezelf en je leven in balans te brengen.</p>
+
+<div style="border-radius: 25px; border: 2px solid #293638; padding: 20px; display: table;">
+  <div style="float: left; padding: 10px;">
+    <a href="http://www.wad-werkt.nl"><img width="200" height="58" src="https://twinmum1.github.io/zie-ontwikkeling/assets/images/wadwerkt-logo-colour.png" alt="wad-werkt.nl"/></a>
+  </div>
+  <div style="float: left; padding: 10px;">
+    <p>Een vierdaagse, persoonlijke leiderschapsreis om jezelf en je leven in balans te brengen.</p>
+  </div>
 </div>
