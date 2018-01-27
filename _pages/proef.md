@@ -47,7 +47,7 @@ feature_row:
 
 <div style="border-radius: 25px; border: 2px solid #293638; padding: 20px; display: table;">
   <div style="display: table-row;">
-    <div style="display: table-cell; width: auto; padding: 10px;">
+    <div style="display: table-cell; width: auto; min-width: 200px; padding: 10px;">
       <a href="http://www.wad-werkt.nl">
       <img width="200" height="58" src="https://twinmum1.github.io/zie-ontwikkeling/assets/images/wadwerkt-logo-colour.png" alt="wad-werkt.nl"/>
       </a>
