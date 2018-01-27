@@ -44,9 +44,9 @@ feature_row:
 
 {% include feature_row %}
 
-<div style="display: table;">
-  <div style="display: table-row;">
-    <div style="display: table-cell;">
+<div style="display: table; border: 2px solid #293638;">
+  <div style="display: table-row; border: 2px solid #293638;">
+    <div style="display: table-cell; border: 2px solid #293638;">
       <!-- kader -->
       <div style="border-radius: 25px; border: 2px solid #293638; padding: 20px; display: table;">
         <div style="display: table-row;">
