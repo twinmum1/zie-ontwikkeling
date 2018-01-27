@@ -44,6 +44,6 @@ sidebar:
       text: "Ga mee naar de wadden om jezelf te ontdekken, en jezlef zodoende te kunnen ontwikkelen."
       
 ---
-
+{% include sidebar %}
 {% include feature_row %}
 
