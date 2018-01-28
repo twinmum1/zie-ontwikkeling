@@ -43,9 +43,10 @@ Interesse? Neem dan <a href="mailto:anita@zie-ontwikkeling.nl">contact</a> met m
     <div style="display: table-cell; width: 200px; padding: 10px;">
       <a href="http://www.wad-werkt.nl"><img style="width: 100%;" src="https://twinmum1.github.io/zie-ontwikkeling/assets/images/wadwerkt-logo-colour.png" alt="wad-werkt.nl"/></a>
     </div>
-    <div style="display: table-cell; padding: 10px; vertical-align: top;">Of neem je graag vier dagen voor jezelf?
-    Vier dagen waarin je ontdekt waar je voor staat, waar je kracht ligt en waar jij voor wilt gaan.
-    Kom dan mee naar Vlieland van 17 tot en met 20 april. En kijk op [wad-werkt.nl] (https://www.wad-werkt.nl/) voor meer informatie.
+    <div style="display: table-cell; padding: 10px; vertical-align: top;">Of neem je graag vier dagen voor jezelf?  
+    Vier dagen waarin je ontdekt waar je voor staat, waar je kracht ligt en waar jij voor wilt gaan.  
+    Kom dan mee naar Vlieland van 17 tot en met 20 april.   
+    Kijk op [wad-werkt.nl] (https://www.wad-werkt.nl/) voor meer informatie.
     </div>
   </div>
 </div>
