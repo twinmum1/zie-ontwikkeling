@@ -39,16 +39,14 @@ Interesse? Neem dan <a href="mailto:anita@zie-ontwikkeling.nl">contact</a> met m
 
 <!-- kader; geen markdown -->
 <div style="border-radius: 25px; border: 2px solid #293638; background-color: #F0F4F4; padding: 20px; display: table;">
-  <div style="display: table-row;">
-    <div style="display: table-cell; width: 200px; padding: 10px;">
-      <a href="http://www.wad-werkt.nl"><img style="width: 100%;" src="https://twinmum1.github.io/zie-ontwikkeling/assets/images/wadwerkt-logo-colour.png" alt="wad-werkt.nl"/></a>
-    </div>
-    <div style="display: table-cell; padding: 10px; vertical-align: top;">
+  <div style="display: table-row; padding: 10px;">
+    <a href="http://www.wad-werkt.nl"><img style="width: 200px; horizontal-align: left;" src="https://twinmum1.github.io/zie-ontwikkeling/assets/images/wadwerkt-logo-colour.png" alt="wad-werkt.nl"/></a>
+  </div>
+  <div style="display: table-row; padding: 10px;">
     Of neem je graag vier dagen voor jezelf? <br>
     Vier dagen waarin je ontdekt waar je voor staat, waar je kracht ligt en waar jij voor wilt gaan.<br> <br>
     Kom dan mee naar Vlieland van 17 tot en met 20 april! 
     Kijk op <a href="https://www.wad-werkt.nl/" style="text-decoration: none;">wad-werkt.nl</a> voor meer informatie.
-    </div>
   </div>
 </div>
 <!-- kader -->
