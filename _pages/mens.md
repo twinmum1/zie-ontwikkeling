@@ -38,7 +38,7 @@ Ik coach vanuit oprechte betrokkenheid en verbinding. En durf met respect op een
 Interesse? Neem dan <a href="mailto:anita@zie-ontwikkeling.nl">contact</a> met me op voor een vrijblijvende kennismaking.
 
 <!-- kader; geen markdown -->
-<div style="border-radius: 25px; border: 2px solid #293638; background-color: #DAE3E4; padding: 20px; display: table;">
+<div style="border-radius: 25px; border: 2px solid #293638; background-color: #F0F4F4; padding: 20px; display: table;">
   <div style="display: table-row;">
     <div style="display: table-cell; width: 200px; padding: 10px;">
       <a href="http://www.wad-werkt.nl"><img style="width: 100%;" src="https://twinmum1.github.io/zie-ontwikkeling/assets/images/wadwerkt-logo-colour.png" alt="wad-werkt.nl"/></a>
