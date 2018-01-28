@@ -46,7 +46,7 @@ Interesse? Neem dan <a href="mailto:anita@zie-ontwikkeling.nl">contact</a> met m
     <div style="display: table-cell; padding: 10px; vertical-align: top;">Of neem je graag vier dagen voor jezelf?  
     Vier dagen waarin je ontdekt waar je voor staat, waar je kracht ligt en waar jij voor wilt gaan.  
     Kom dan mee naar Vlieland van 17 tot en met 20 april.   
-    Kijk op [wad-werkt.nl](https://www.wad-werkt.nl/) voor meer informatie.
+    Kijk op <a href="https://www.wad-werkt.nl/">wad-werkt.nl</a> voor meer informatie.
     </div>
   </div>
 </div>
