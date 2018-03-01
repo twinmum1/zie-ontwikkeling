@@ -33,6 +33,9 @@ Anita is een prettige persoonlijkheid met verstand van zaken die oog heeft voor 
 In teamsetting toont zij zich een sterke procesbegeleider: het proces wordt op een luchtige manier goed bewaakt, terwijl de inhoudelijke discussie (en het leerproces) bij de deelnemers blijft liggen. Zij heeft ons managementteam inzicht gegeven in sterktes, uitdagingen en verbetermogelijkheden. En geholpen in verdere ontwikkeling en groei.”  
 **Edwin van den Elst (algemeen directeur Talent en Pro)**
 
+>"Kernwoorden die Anita kenschetsen: verbinder, enthousiast/inspirerend/mensgericht. Anita heb ik leren kennen in haar reis naar Lean Black Belt bij de Rabobank. Direct viel op dat Anita niet de Lean Black Belt 'uit het boekje' is. Zij begreep direct dat Lean werken een verandering in gedrag meebrengt. En dat als je wilt verbeteren voor de klant, mensen ook op zoek moeten gaan naar verbeteren van hun gedrag en daarmee op zoek gaan naar hun eigen kern. Als geen ander ziet Anita de mens in zijn geheel, en kan zij ondersteunen in hun zoektocht naar wie zij echt zijn en wat echt bij hen past. Zij verbindt mensen van nature en met haar aanstekelijk enthousiasme en pure houding neemt zij mensen makkelijk mee. Kortom, een fijn, vertrouwd mens om mee samen te werken."
+**Erik de Lange (Master Black Belt Lean en consultant Rabobank)**
+
 
 >"Anita's manier van vragen stellen, helpt om tot de kern van het probleem te komen. Ze gaat moeilijke vragen niet uit de weg en je voelt je bij haar vertrouwd en gehoord in de zoektocht naar oplossingen. Hierbij verliest ze de sfeer niet uit het oog. Ze geeft positieve energie om onderwerpen tot op de bodem uit te zoeken."  
 **Ivo Breuer (senior adviseur bedrijfsvoering Gemeente Leudal)**
