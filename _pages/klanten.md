@@ -15,6 +15,8 @@ feature_row:
   - image_path: /assets/images/referenties/talentpro1.png
 
   - image_path: /assets/images/referenties/solidaridad1.png
+  - image_path: /assets/images/referenties/jumbo1.png
+  - image_path: /assets/images/referenties/weredi1.png
 
 ---
 
