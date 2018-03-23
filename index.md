@@ -6,7 +6,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/zie-home-web-min.jpg
-excerpt: "Luisteren naar zowel ratio als emotie geeft overzicht en energie 
+excerpt: "Luisteren naar zowel ratio als gevoel geeft overzicht en energie 
 <br>
 <br>
 <br>
