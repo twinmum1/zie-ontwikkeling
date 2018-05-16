@@ -47,7 +47,7 @@ Interesse? Neem dan <a href="mailto:anita@zie-ontwikkeling.nl">contact</a> met m
     Vier dagen waarin je ontdekt waar je voor staat, waar je kracht ligt en wat jij te brengen hebt.<br> <br>
     Kom dan mee naar Vlieland. De eerstvolgende vierdaagse staat gepland van 9 tot en met 12 oktober a.s.    
     
-    Kijk op <a href="https://www.wad-werkt.nl/" style="text-decoration: none;">wad-werkt.nl</a> voor meer informatie.
+   Kijk op <a href="https://www.wad-werkt.nl/" style="text-decoration: none;">wad-werkt.nl</a> voor meer informatie.
   </div>
 </div>
 <!-- kader -->
