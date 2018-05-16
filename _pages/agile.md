@@ -18,7 +18,7 @@ excerpt: "Vooruit is niet altijd rechtdoor <br>~Martin Bril~
 ---
 
 
-Anita Pijnappels is gecertificeerd Lean Black Belt en agile coach. 
+Anita Pijnappels is gecertificeerd Lean Black Belt en agile transformatie coach. 
 
 Zie Ontwikkeling erkent de kracht van kort cyclisch organiseren en sturen. De bewezen methodes Lean en Agile maken een organisatie meer wendbaar, waardoor veranderen en ontwikkelen onderdeel worden van dagelijks werk. Zowel Agile als Lean zijn bewezen methodes. Die meer overeenkomsten dan verschillen in zich hebben. Helaas worden Lean en Agile (bv Scrum) vaak als doel op zich ervaren. De organisatie lijkt dan vooral gericht op het implementeren van methodieken en overlegvormen. 
 Het is echter veel meer nog een filosofie, dan een set van hulpmiddelen. Erop gebrand om continu te verbeteren. Gericht op mensen: medewerkers en klanten.
