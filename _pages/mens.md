@@ -28,11 +28,7 @@ Herken je hier iets van?
 
 Ik geloof dat ieder zijn unieke combinatie van talenten bezit. Een uniciteit die je zelf niet altijd ziet, omdat het voor jou iets vanzelfsprekends is. Of omdat je jezelf allemaal competenties en gedragingen hebt aangeleerd. Omdat dat van je verwacht wordt. En die beheers je nog goed ook. Met als risico is dat je jezelf daardoor een beetje kwijtraakt.
 
-Mijn drijfveer is ontstaan vanuit mijn eigen ervaring. Na jarenlang werken in een ratiogedreven omgeving, bleek het erg moeilijk om te voelen. Om intuïtief te acteren. En dat zorgde voor een disbalans. En een energielek. En een gevoel van onbehagen. Simpelweg omdat ik weinig in verbinding was met mezelf.
-
-Met coaching, stilteretraites en de rust van de natuur is het mij gelukt mijn eigen natuur/kern te herontdekken. En om rationeel en emotioneel weer meer in balans te zijn. En te blijven. Het heeft mij ook in de kracht gezet om belangrijke en spannende keuzes te maken (zoals het opzeggen van mijn dienstverband). Ik gun jou dit ook. 
-
-Ik coach vanuit oprechte betrokkenheid en verbinding. En durf met respect op een eerlijke manier te confronteren. Altijd toewerkend naar een doel, waarbij ik je indien nodig help om dit te formuleren. Passend bij jou.
+Ik coach vanuit oprechte betrokkenheid en verbinding. En confronteer met respect op een eerlijke manier. Altijd toewerkend naar een doel, waarbij ik je indien nodig help om dit te formuleren. Passend bij jou.
 
 
 Interesse? Neem dan <a href="mailto:anita@zie-ontwikkeling.nl">contact</a> met me op voor een vrijblijvende kennismaking.
