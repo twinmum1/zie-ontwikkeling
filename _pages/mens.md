@@ -26,7 +26,7 @@ excerpt: "Als denken het niet meer weet, luister dan naar je hart.<br> ~Patrick 
 
 Herken je hier iets van? 
 
-Ik geloof dat ieder zijn unieke combinatie van talenten bezit. Een uniciteit die je zelf niet altijd ziet, omdat het voor jou iets vanzelfsprekends is. Of omdat je jezelf allemaal competenties en gedragingen hebt aangeleerd. Omdat dat van je verwacht wordt. En die beheers je nog goed ook. Met als risico is dat je jezelf daardoor een beetje kwijtraakt.
+Zie Ontwikkeling gelooft dat ieder zijn unieke combinatie van talenten bezit. Een uniciteit die je zelf niet altijd ziet, omdat het voor jou iets vanzelfsprekends is. Of omdat je jezelf allemaal competenties en gedragingen hebt aangeleerd. Omdat dat van je verwacht wordt. En die beheers je nog goed ook. Met als risico is dat je jezelf daardoor een beetje kwijtraakt.
 
 Ik coach vanuit oprechte betrokkenheid en verbinding. En confronteer met respect op een eerlijke manier. Altijd toewerkend naar een doel, waarbij ik je indien nodig help om dit te formuleren. Passend bij jou.
 
